@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="USER_ACCOUNT_INFO_PREF">user-account-info</string>
+    <string name="USER_NAME_PREF_KEY">user-account-name</string>
+    <string name="URL_WEB_SERVICE">https://badcodegr.000webhostapp.com/smartSrv/SignInUserName.php</string>
+    <string name="SIGN_IN_UPDATE">sign_in_update_ui</string>
+</resources>
